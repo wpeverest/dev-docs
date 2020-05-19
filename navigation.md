@@ -1,0 +1,5 @@
+[WPEverest Wiki](index.md)
+[Lorem](wiki/page1.md)
+[Ipsum](wiki/page2.md)
+[Dolores](wiki/page3.md)
+[gimmick:theme](bootstrap)
